@@ -1,3 +1,1 @@
 # graphlab
-
-Graph Lab!
